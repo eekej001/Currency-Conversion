@@ -1,0 +1,3 @@
+var dollars = prompt("How much money do you have in dollars?");
+var pennies = dollars * 100;
+alert("You have " + pennies + " pennies!");
